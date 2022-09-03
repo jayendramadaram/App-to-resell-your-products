@@ -21,3 +21,6 @@ btw I am learning and Building these
 Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin
 
 If i have time left will scale this app to web3 space making all transactions and User data stored and processed on decentralized blockchain "Smart contracts written in RUST on Near Ecosystem"
+
+
+Main Aim of Project to Provide a SOLID boilerplate code for future projects

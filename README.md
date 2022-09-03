@@ -16,3 +16,6 @@ btw I am learning and Building these
 - GraphQl
 - NESTjs
 - Shared Network and Monorepo
+
+
+Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin

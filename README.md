@@ -9,7 +9,6 @@ btw I am learning and Building these
 
 - VITE + REACT 
 - TYPESCRIPT
-- MonoRepo
 - PostGres with ORM
 - Docker
 - Nginx

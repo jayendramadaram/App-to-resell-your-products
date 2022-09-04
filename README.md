@@ -16,7 +16,8 @@ btw I am learning and Building these
 - GraphQl                                                     [ Api with apollo ]
 - NESTjs                                                      [ Complete backend framwork based on Node & express ]
 - Shared Network and Monorepo                                 [ serving react via express and hosting nginx + postgres ]
-- storybook                                                   [ documenting app ]
+- storybook                                                   [ documenting app and testing ]
+- jest                                                        [ gonna write less tests but will be written in JEST ]
 - Nginx                                                       [ Proxies , load balancing and high level stuff i will document it tho]
 ```
 

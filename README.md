@@ -7,15 +7,16 @@ Stack / technologies / methodologies  Going to be Used
 
 btw I am learning and Building these 
 
-- VITE + REACT 
-- TYPESCRIPT
-- PostGres with ORM
-- Docker
-- Nginx
-- Tailwind
-- GraphQl
-- NESTjs
-- Shared Network and Monorepo
+- VITE + REACT                                                [ React cuz i am good at it and VITE for its HMR and flashy speed ]
+- TYPESCRIPT                                                  [ why JS ? ]
+- PostGres with ORM & reddis                                  [ posty -> Primary Database , reddis -> secondary auth purposes ]  
+- Docker                                                      [ Managing deployements ]                       
+- Tailwind                                                    [ Responsive and styling components ]
+- GraphQl                                                     [ Api with apollo ]
+- NESTjs                                                      [ Complete backend framwork based on Node & express ]
+- Shared Network and Monorepo                                 [ serving react via express and hosting nginx + postgres ]
+- storybook                                                   [ documenting app ]
+- Nginx 
 
 
 Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin

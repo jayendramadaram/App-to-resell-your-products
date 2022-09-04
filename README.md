@@ -17,7 +17,7 @@ btw I am learning and Building these
 - NESTjs                                                      [ Complete backend framwork based on Node & express ]
 - Shared Network and Monorepo                                 [ serving react via express and hosting nginx + postgres ]
 - storybook                                                   [ documenting app ]
-- Nginx 
+- Nginx                                                       [ Proxies , load balancing and high level stuff i will document it tho]
 ```
 
 Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin

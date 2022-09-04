@@ -7,7 +7,7 @@ Stack / technologies / methodologies  Going to be Used
 
 btw I am learning and Building these 
 
-- VITE + REACT                                                [ React cuz i am good at it and VITE for its HMR and flashy speed ]
+-` VITE + REACT                                                [ React cuz i am good at it and VITE for its HMR and flashy speed ]`
 - TYPESCRIPT                                                  [ why JS ? ]
 - PostGres with ORM & reddis                                  [ posty -> Primary Database , reddis -> secondary auth purposes ]  
 - Docker                                                      [ Managing deployements ]                       

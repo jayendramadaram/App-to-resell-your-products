@@ -10,7 +10,7 @@ btw I am learning and Building these
 ```
 - VITE + REACT                                                [ React cuz i am good at it and VITE for its HMR and flashy speed ]
 - TYPESCRIPT                                                  [ why JS ? ]
-- PostGres with TypeORM & reddis                                  [ posty -> Primary Database , reddis -> secondary auth purposes ]  
+- PostGres with TypeORM & reddis                              [ posty -> Primary Database , reddis -> secondary auth purposes ]  
 - Docker                                                      [ Managing deployements ]                       
 - Tailwind                                                    [ Responsive and styling components ]
 - GraphQl                                                     [ Api with apollo ]

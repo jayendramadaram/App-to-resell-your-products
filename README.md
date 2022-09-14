@@ -20,6 +20,7 @@ btw I am learning and Building these
 - jest                                                        [ gonna write less tests but will be written in JEST ]
 - Nginx                                                       [ Proxies , load balancing and high level stuff i will document it tho]
 - Python                                                      [ To generate MOCKDATA and API testing ]
+- Reddis                                                      [ Caching and search engine module ]
 ```
 
 Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin

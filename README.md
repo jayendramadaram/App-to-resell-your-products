@@ -9,8 +9,9 @@ btw I am learning and Building these
 
 ```
 - Nextjs                                                      [ I am only good at React and I need SEO , good typescript & dynamic styling support ]
+- Redux                                                       [ Client side State Management ]
 - TYPESCRIPT                                                  [ why JS ? ]
-- PostGres with TypeORM & reddis                              [ posty -> Primary Database , reddis -> secondary auth purposes ]  
+- PostGres with TypeORM & reddis                              [ posty -> Primary Database , reddis -> secondary auth purposes ,  Caching and search engine module  ]  
 - Docker                                                      [ Managing deployements ]                       
 - Tailwind                                                    [ Responsive and styling components ]
 - GraphQl                                                     [ Api with apollo ]
@@ -20,7 +21,6 @@ btw I am learning and Building these
 - jest                                                        [ gonna write less tests but will be written in JEST ]
 - Nginx                                                       [ Proxies , load balancing and high level stuff i will document it tho]
 - Python                                                      [ To generate MOCKDATA and API testing ]
-- Reddis                                                      [ Caching and search engine module ]
 ```
 
 Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin

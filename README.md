@@ -9,9 +9,10 @@ btw I am learning and Building these
 
 ```
 - Nextjs                                                      [ I am only good at React and I need SEO , good typescript & dynamic styling support ]
+- Prisma                                                      [ ORM for Postgres ]
 - Redux                                                       [ Client side State Management ]
 - TYPESCRIPT                                                  [ why JS ? ]
-- PostGres  & reddis                                          [ posty -> Primary Database , reddis -> secondary auth purposes ,  Caching and search engine module  ]  
+- PostGres & reddis                                           [ posty -> Primary Database , reddis -> secondary auth purposes ,  Caching and search engine module  ]  
 - Docker                                                      [ Managing deployements ]                       
 - Tailwind                                                    [ Responsive and styling components ]
 - GraphQl                                                     [ Api with apollo ]

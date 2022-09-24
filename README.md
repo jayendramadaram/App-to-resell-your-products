@@ -18,10 +18,15 @@ btw I am learning and Building these
 - GraphQl                                                     [ Api with apollo ]
 - NESTjs                                                      [ Complete backend framwork based on Node & express ]
 - Shared Network and Monorepo                                 [ serving react via express and hosting nginx + postgres ]
-- storybook                                                   [ documenting app and testing ]
+- storybook + COmpodoc                                        [ documenting app and testing ]
 - jest                                                        [ gonna write less tests but will be written in JEST ]
 - Nginx                                                       [ Proxies , load balancing and high level stuff i will document it tho]
-- Python                                                      [ To generate MOCKDATA and API testing ]
+- Python                                                      [ Full text search microservice + To generate MOCKDATA and API testing and many more tho ]
+- Ellastic Search                                             [ Full text search ]
+- Rabbitmq or KAFKA                                           [ microservice Messaging protocol ]
+- Stripe                                                      [ Payment Protocol ]
+- SocketIO                                                    [ WebSOCKET connection ]
+- RUST , solidity + truffle , near sdk                        [ Smart contract and client interaction for NEAR and ETHEREIUM respectivly ] 
 ```
 
 Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin

@@ -28,6 +28,7 @@ btw I am learning and Building these
 - SocketIO                                                    [ WebSOCKET connection ]
 - RUST , solidity + truffle , near sdk                        [ Smart contract and client interaction for NEAR and ETHEREIUM respectivly ] 
 - SendGrid                                                    [ Mailing service about order Fullfillment ,analytics and order tracking ]
+- React Query & apollo client                                 [ well its all about fetching and mutation but GOD level ]
 ```
 
 Incase i complete this app by 2023 [ie in 4 months] i will prupose my crush on linkedin

@@ -41,3 +41,6 @@ Main Aim of Project to Provide a SOLID boilerplate code for future projects
 
 ### Client Side Routing
 ![ ROUTING ](https://raw.githubusercontent.com/jayendramadaram/App-to-resell-your-products/main/ClientRouting.png)
+
+### UI reference
+![ UI ](https://raw.githubusercontent.com/jayendramadaram/App-to-resell-your-products/main/Figma%20UI.png)

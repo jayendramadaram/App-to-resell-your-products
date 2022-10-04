@@ -38,7 +38,7 @@ If i have time left will scale this app to web3 space making all transactions an
 
 Main Aim of Project to Provide a SOLID boilerplate code for future projects
 
-![ TRACK THE PROJECT  ] (https://github.com/users/jayendramadaram/projects/2/views/1)
+[ TRACK THE PROJECT  ] (https://github.com/users/jayendramadaram/projects/2/views/1)
 
 ### Client Side Routing
 ![ ROUTING ](https://raw.githubusercontent.com/jayendramadaram/App-to-resell-your-products/main/ClientRouting.png)

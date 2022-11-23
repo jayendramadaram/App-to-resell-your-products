@@ -1,10 +1,11 @@
 import type { NextPage } from 'next'
+import Head from 'next/head'
+import Image from 'next/image'
+
 const Home: NextPage = () => {
   return (
-    <div className='flex w-screen'>
-      <div className='underline flex w-screen h-screen justify-center items-center'>
-        ITS BEEN A WHILE CODING IN TAILWIND
-      </div>
+    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+      HI MOM
     </div>
   )
 }
